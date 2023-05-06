@@ -1,0 +1,9 @@
+:root {
+  --main-background-color: #e1dbdb;
+}
+
+body {
+  width: 100%;
+  height: fit-content;
+  margin: 0 auto;
+}

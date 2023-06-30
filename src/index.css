@@ -1,9 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700&display=swap");
+
 :root {
   --main-background-color: #e1dbdb;
+  --first-color-bar: #191919;
+  --letter-color-bar: #1ea9ea;
+  --color-hover-buttons: #eeeeee;
+  --background-color-art: #000000b9;
+  --background-color-secondary: #24517eba;
+  --colored-span: #e74fed;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
 body {
   width: 100%;
   height: fit-content;
   margin: 0 auto;
+  font-size: 18px;
+  font-family: "Nunito", sans-serif;
+  background-image: url("../src/assets/v627-aew-41-technologybackground.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
 }

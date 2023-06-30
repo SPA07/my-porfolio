@@ -1,36 +1,16 @@
-:root {
-    --color-hover-buttons: #eeeeee;
-    --first-color-bar: #191919;
-    --letter-color-bar: #0b628a;
-  }
-
-#skills-container {
-    border: 1px solid;
-    width: 60%;
+#skills {
+    width: 100%;
     margin: 0 auto;
-    margin-top: 40px;
     padding: 35px;
-    background-color: var(--first-color-bar);
+    background-color: var(--background-color-secondary);
 }
 
-
-#title-skills {
-    /* border-left: 1px solid;
-    border-bottom: 1px solid; */
-    width: 160px;
-    padding: 12px;
-    font-size: 56px;
-    font-weight: 700;
-    margin-left: 20px;
-    box-shadow: var(--letter-color-bar) 0px 25px 20px -20px;
+.title-skills {
+    border-bottom: 1px solid;
+    width: fit-content;
+    color: var(--color-hover-buttons);
 }
 
-.skills-img-container {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-}
-
-.skills-img-container img{
-    width: 130px;
+.colored {
+    color: var(--colored-span);
 }

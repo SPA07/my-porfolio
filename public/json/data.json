@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "url": "../technologies/html.svg"
+    },
+    {
+        "id": 2,
+        "url": "../technologies/css.svg"
+    },
+    {
+        "id": 3,
+        "url": "../technologies/js.svg"
+    },
+    {
+        "id": 4,
+        "url": "../technologies/react.png"
+    },
+    {
+        "id": 5,
+        "url": "../technologies/redux.png"
+    },
+    {
+        "id": 6,
+        "url": "../technologies/lit.svg"
+    },
+    {
+        "id": 7,
+        "url": "../technologies/git.png"
+    },
+    {
+        "id": 8,
+        "url": "../technologies/node.png"
+    },
+    {
+        "id": 9,
+        "url": "../technologies/sass.png"
+    }
+]
